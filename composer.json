@@ -32,8 +32,8 @@
             "App\\": "app/"
         },
         "files": [
-            "app/libs/http.php",
-            "app/libs/common.php"
+            "libs/http.php",
+            "libs/common.php"
         ]
     },
     "autoload-dev": {
